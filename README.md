@@ -2,7 +2,7 @@
 A Python library for visualizing brain electrodes, volumes, and surfaces. 
 
 Functionalities:
-- Interactive Brain Scenes: Build complex 3-D scenes with "glass brain" transparency, opaque anatomical structures, and custom lighting.
+- Interactive Brain Scenes: Build 3D scenes with "glass brain" transparency, opaque anatomical structures, and custom lighting.
 - Electrode Visualization: Render electrodes with uniform colors, group-based color coding (e.g., by anatomical label), or scalar weighting (e.g., spectral power or CCEP amplitude).
 - MRI Slice Planes: Embed axial, coronal, or sagittal MRI slices into the 3D electrode space.
 - Activity Mapping: Project electrode-level activity onto cortical surface meshes using Gaussian kernels.
