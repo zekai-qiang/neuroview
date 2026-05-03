@@ -9,6 +9,6 @@ Functionalities:
 - Anatomical Segmentations: Automatically extract and render isosurfaces from NIfTI label volumes using marching cubes.
 - Multi-Format Support: Built-in readers for common neuroimaging formats including FreeSurfer, GIFTI, and NIfTI.
 
-The library requires the following dependencies: pip install plotly pandas numpy scipy scikit-image kaleido
+The library requires the following dependencies: plotly, pandas, numpy, scipy, scikit-image, kaleido
 
 Zekai Qiang, May 2026
