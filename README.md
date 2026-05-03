@@ -11,15 +11,4 @@ Multi-Format Support: Built-in readers for common neuroimaging formats including
 
 The library requires the following dependencies: pip install plotly pandas numpy scipy scikit-image kaleido
 
-Structure
-neuroview/
-├── __init__.py         # Public API and package exports
-├── io.py               # Low-level file readers
-├── scene.py            # Plotly BrainScene builder logic
-├── surface.py          # Surface mesh container and loader
-├── volume.py           # NIfTI volume and isosurface utilities
-├── electrodes.py       # Electrode data containers and grouping
-├── surface_activity.py # Gaussian activity projection kernels
-└── transforms.py       # Coordinate transformation utilities (voxel - world)
-
 Zekai Qiang, May 2026
